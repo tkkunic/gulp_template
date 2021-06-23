@@ -1,0 +1,4 @@
+# 共通して無視するもの
+node_modules/
+dist/
+publish/
